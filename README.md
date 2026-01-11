@@ -248,9 +248,6 @@ RENAME COLUMN quantiy TO quantity;
 Top 5 customers with customer_id 3,1,5,2,4, contributed a significant portion of total revenue, showing a small segment of loyal or high-spending customers.
 
 
-### Technologies Used
-SQL (MySQL) – database creation, querying, and analysis
+## Technologies Used: SQL (MySQL) – database creation, querying, and analysis
 
-
-### Project Status
-Completed
+## Project Status: Completed
