@@ -216,7 +216,7 @@ RENAME COLUMN quantiy TO quantity;
 ```
 
 
-### Key Findings and Insights
+## Key Findings and Insights
 
 #### Total Sales and Customers
 -- Total transactions: 1,987
