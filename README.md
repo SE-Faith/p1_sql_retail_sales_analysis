@@ -214,3 +214,43 @@ GROUP BY shift;
 ALTER TABLE retail_sales
 RENAME COLUMN quantiy TO quantity;
 ```
+
+
+### Key Findings and Insights
+
+#### Total Sales and Customers
+-- Total transactions: 1,987
+-- Total unique customers: 155
+-- Number of product categories: 3 (Clothing, Beauty, Electronics)
+
+#### Sales by Category
+-- Electronics generated the highest total sales revenue.
+-- Clothing had the highest number of orders.
+
+#### Customer Demographics
+-- Average age of customers buying Beauty products: 40 years.
+-- Women accounted for 54% of Beauty product transactions.
+-- Men purchased 50.3% Clothing and 50.6% Electronic items.
+
+#### High-Value Transactions
+-- Transactions with total sales greater than 1000 were mainly in Electronics and Clothing categories.
+
+#### Peak Sales Periods
+-- Morning: 27.6% of transactions
+-- Afternoon: 19% of transactions
+-- Evening: 53.5% of transactions
+-- Evening is the busiest period for sales.
+
+#### Best Performing Months
+-- July and February had the highest average sales, likely due to seasonal shopping and promotions.
+
+#### Top Customers
+Top 5 customers with customer_id 3,1,5,2,4, contributed a significant portion of total revenue, showing a small segment of loyal or high-spending customers.
+
+
+### Technologies Used
+SQL (MySQL) – database creation, querying, and analysis
+
+
+### Project Status
+Completed
